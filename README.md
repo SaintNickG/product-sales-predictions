@@ -5,7 +5,8 @@
 -  Predict future sales of items based on the factors provided
 
 -  ##  Data
--  To prepare this data, the data was cleaned, and the following processes were performed:
+-  ![IMG_0818 2](https://github.com/SaintNickG/product-sales-predictions/assets/137968958/2d0e3326-fcd0-49d3-944c-e40e2c0f1289)
+-  To prepare data, the data was cleaned, and the following processes were performed:
 ## Expolratory Data Analysis
 
 ![image](https://github.com/SaintNickG/product-sales-predictions/assets/137968958/e90f193b-a1c7-4f19-b50a-ba9aac9f158e)
