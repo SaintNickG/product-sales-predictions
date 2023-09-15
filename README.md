@@ -8,7 +8,7 @@
 -  To prepare this data, the data was cleaned, and the following processes were performed:
 ## Expolratory Data Analysis
 
-![image](https://github.com/SaintNickG/product-sales-predictions/assets/137968958/b5297929-d7ce-43ad-aefe-12e50b26c901)
+![image](https://github.com/SaintNickG/product-sales-predictions/assets/137968958/e90f193b-a1c7-4f19-b50a-ba9aac9f158e)
 >  **We Found that we could achieve more accurate models by examining Store Size to Impute missing values**
 >
 > 
@@ -16,8 +16,10 @@
 
 >![image](https://github.com/SaintNickG/product-sales-predictions/assets/137968958/75d51094-3ba1-42f9-9157-64eea16ab1b5)
 > **We found our strongest correlation to Total Sales was with Retai Price**
+>![image](https://github.com/SaintNickG/product-sales-predictions/assets/137968958/fcd24bb4-421e-4374-8a74-c96a4afbfd4b)
+>
 > 
-## Maching Learning Using the Following Models:
+## Machine Learning Using the Following Models:
 - Linnear Regression
 - Bagged Tree Regressor model
 - Random Forest Regressor Model
